@@ -1,0 +1,50 @@
+h1
+{
+  text-decoration:underline;
+}
+
+body
+{
+  text-align:center;
+  background-color:#778899;
+}
+
+label
+{
+  font-family:Calibri;
+}
+
+input
+{
+  font-family:Calibri;
+}
+
+#l1
+{
+  margin-right:30px;
+}
+
+#l2
+{
+  margin-right:16px;
+}
+
+#l3
+{
+  margin-right:15px;
+}
+
+#button
+{
+  
+  font-size:15px;
+  padding: 10px 40px;
+  margin-right:10px;
+  background-color:#E5E5E5;
+}
+
+table
+{
+width:100%;
+border-collapse:collapse;
+}
